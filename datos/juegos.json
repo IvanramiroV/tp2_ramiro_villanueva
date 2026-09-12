@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "El Juego de la Vida",
+    "editorial": "Hasbro",
+    "anio": 1960,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Familiar", "Azar"],
+    "disponible": true
+  },
+  {
+    "titulo": "Monopoly",
+    "editorial": "Hasbro",
+    "anio": 1935,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Estrategia", "Comercio"],
+    "disponible": true
+  },
+  {
+    "titulo": "El Pensante",
+    "editorial": "Editorial Genérica",
+    "anio": 2012,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Mental", "Trivia"],
+    "disponible": false
+  },
+  {
+    "titulo": "Juego de la Oca",
+    "editorial": "Tradicional",
+    "anio": 1880,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Familiar", "Azar"],
+    "disponible": true
+  }
+]

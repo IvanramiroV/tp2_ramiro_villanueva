@@ -1,0 +1,27 @@
+CATÁLOGO DE JUEGOS DE MESA
+Cantidad de juegos: 4
+
+1. Título: El Juego de la Vida
+   Editorial y año: Hasbro (1960)
+   Participantes: De 2 a 4 jugadores
+   Categorías: Familiar, Azar
+   Estado: Disponible
+---------------------------------------------
+2. Título: Monopoly
+   Editorial y año: Hasbro (1935)
+   Participantes: De 2 a 6 jugadores
+   Categorías: Estrategia, Comercio
+   Estado: Disponible
+---------------------------------------------
+3. Título: El Pensante
+   Editorial y año: Editorial Genérica (2012)
+   Participantes: De 2 a 4 jugadores
+   Categorías: Mental, Trivia
+   Estado: No disponible
+---------------------------------------------
+4. Título: Juego de la Oca
+   Editorial y año: Tradicional (1880)
+   Participantes: De 2 a 6 jugadores
+   Categorías: Familiar, Azar
+   Estado: Disponible
+---------------------------------------------
